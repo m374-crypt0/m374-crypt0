@@ -47,21 +47,24 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 - **Problem**: High gas usage and unsafe edge cases in a production contract
 - **Approach**: Yul refactor, storage layout optimization, invariant testing
 - **Result**: ~35% gas reduction, critical paths hardened
-- **Repo**: ==link-to-repo== (Dexterity)
+- **Repo**: [dexterity](https://github.com/m374-crypt0/dexterity),
+  [nifty](https://github.com/m374-crypt0/nifty)
 
 ### 🧩 ZK Privacy Module (Noir)
 
 **Problem**: Add privacy guarantees without sacrificing UX
 **Approach**: Noir circuits + verifier integration
 **Result**: End‑to‑end private flow validated on testnet
-**Repo**: ==link-to-repo== (Prize)
+**Repo**: [prize](https://github.com/m374-crypt0/prize)
 
 ### 🧪 Protocol Refactor v1 → v2
 
-**Problem**: Legacy design blocking scalability
-**Approach**: Modular architecture, upgrade-safe patterns
-**Result**: Cleaner audits, safer upgrades
-**Repo**: ==link-to-repo== (all previous, the way I work)
+- **Problem**: Legacy design blocking scalability
+- **Approach**: Modular architecture, upgrade-safe patterns
+- **Result**: Cleaner audits, safer upgrades
+- **Repo**: [dexterity](https://github.com/m374-crypt0/dexterity),
+  [nifty](https://github.com/m374-crypt0/nifty),
+  [prize](https://github.com/m374-crypt0/prize)
 
 ## How I Work
 
@@ -86,10 +89,13 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 
 ## Contact
 
-GitHub Issues (for technical discussions)
+- GitHub Issues (for technical discussions)
+- X.com (@m374crypt0)
 
-X.com (@m374crypt0)
-
-If you’re looking for a generic Web3 dev, I’m not your guy.
-
-If you need deep protocol expertise, let’s talk.
+---
+>[!Warning]
+> If you’re looking for a generic Web3 dev, I’m not your guy.
+---
+>[!Note]
+>If you need deep protocol expertise, let’s talk.
+---

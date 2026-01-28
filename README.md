@@ -2,7 +2,7 @@
 
 > [!Note]
 > Read my articles on [dev.to](https://dev.to/sebastien_levy_233585b9a3)
-
+---
 > Security • Performance • Production-grade protocols
 
 I help teams secure, optimize, and scale EVM-based blockchain protocols. 15+
@@ -21,6 +21,12 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 
 > If your protocol already has users — or money at risk — you’re my target
 > client.
+
+## What I do not Do
+
+- No unpaid tests 🤑
+- Technical contribution before contract ✅
+- Token-only contributions💲
 
 ## Specialization
 

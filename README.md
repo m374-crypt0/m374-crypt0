@@ -66,7 +66,14 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
   [nifty](https://github.com/m374-crypt0/nifty),
   [prize](https://github.com/m374-crypt0/prize)
 
-## How I Work
+### ❔ Why these repositories exist
+
+- [dexterity](https://github.com/m374-crypt0/dexterity) is not a product. It is
+  a demonstration of architecture, security and invariant.
+- [nifty](https://github.com/m374-crypt0/nifty) is not a "mint". It is a
+  demonstration of patterns for safe-upgrade ability and governance-ready protocol.
+
+## 🤔 How I Work
 
 - Clear scope & milestones
 - Contract before any technical work

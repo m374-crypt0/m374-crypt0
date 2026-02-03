@@ -5,26 +5,6 @@
 ---
 > Security • Performance • Production-grade protocols
 
-<!--toc:start-->
-- [Senior Blockchain Protocol Engineer EVM / Yul / ZK(noir)](#senior-blockchain-protocol-engineer-evm-yul-zknoir)
-  - [What I Do (and Do Well)](#what-i-do-and-do-well)
-  - [What I do not Do](#what-i-do-not-do)
-  - [Specialization](#specialization)
-    - [Core](#core)
-    - [Deep Tech](#deep-tech)
-    - [Infra (secondary)](#infra-secondary)
-  - [Selected Work (Public)](#selected-work-public)
-    - [🔐 EVM Gas & Security Hardening](#🔐-evm-gas-security-hardening)
-    - [🧩 ZK Privacy Module (Noir)](#🧩-zk-privacy-module-noir)
-    - [🧪 Protocol Refactor v1 → v2](#🧪-protocol-refactor-v1-v2)
-    - [❔ Why these repositories exist](#why-these-repositories-exist)
-  - [🤔 How I Work](#🤔-how-i-work)
-  - [Engagements](#engagements)
-    - [Best fit](#best-fit)
-    - [Not a fit](#not-a-fit)
-  - [Contact](#contact)
-<!--toc:end-->
-
 I help teams secure, optimize, and scale EVM-based blockchain protocols. 15+
 years in software engineering (C++/backend systems), now specialized in
 low-level smart contracts (Solidity / Yul) and Zero-Knowledge systems (Noir /

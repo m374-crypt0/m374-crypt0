@@ -5,9 +5,30 @@
 ---
 > Security • Performance • Production-grade protocols
 
+<!--toc:start-->
+- [Senior Blockchain Protocol Engineer EVM / Yul / ZK(noir)](#senior-blockchain-protocol-engineer-evm-yul-zknoir)
+  - [What I Do (and Do Well)](#what-i-do-and-do-well)
+  - [What I do not Do](#what-i-do-not-do)
+  - [Specialization](#specialization)
+    - [Core](#core)
+    - [Deep Tech](#deep-tech)
+    - [Infra (secondary)](#infra-secondary)
+  - [Selected Work (Public)](#selected-work-public)
+    - [🔐 EVM Gas & Security Hardening](#🔐-evm-gas-security-hardening)
+    - [🧩 ZK Privacy Module (Noir)](#🧩-zk-privacy-module-noir)
+    - [🧪 Protocol Refactor v1 → v2](#🧪-protocol-refactor-v1-v2)
+    - [❔ Why these repositories exist](#why-these-repositories-exist)
+  - [🤔 How I Work](#🤔-how-i-work)
+  - [Engagements](#engagements)
+    - [Best fit](#best-fit)
+    - [Not a fit](#not-a-fit)
+  - [Contact](#contact)
+<!--toc:end-->
+
 I help teams secure, optimize, and scale EVM-based blockchain protocols. 15+
-years in software engineering (C++/systems), now specialized in low-level smart
-contracts (Solidity / Yul) and Zero-Knowledge systems (Noir / Barretenberg).
+years in software engineering (C++/backend systems), now specialized in
+low-level smart contracts (Solidity / Yul) and Zero-Knowledge systems (Noir /
+Barretenberg).
 
 I work only on well-defined, contract-backed missions. No unpaid tests.
 
@@ -64,7 +85,7 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 **Problem**: Add privacy guarantees without sacrificing UX
 **Approach**: Noir circuits + verifier integration
 **Result**: End‑to‑end private flow validated on testnet
-**Repo**: [prize](https://github.com/m374-crypt0/prize)
+**Repo**: [zhold](https://github.com/m374-crypt0/zhold)
 
 ### 🧪 Protocol Refactor v1 → v2
 
@@ -73,7 +94,7 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 - **Result**: Cleaner audits, safer upgrades
 - **Repo**: [dexterity](https://github.com/m374-crypt0/dexterity),
   [nifty](https://github.com/m374-crypt0/nifty),
-  [prize](https://github.com/m374-crypt0/prize)
+  [zhold](https://github.com/m374-crypt0/zhold)
 
 ### ❔ Why these repositories exist
 
@@ -81,6 +102,10 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
   a demonstration of architecture, security and invariant.
 - [nifty](https://github.com/m374-crypt0/nifty) is not a "mint". It is a
   demonstration of patterns for safe-upgrade ability and governance-ready protocol.
+
+- [zhold](https://github.com/m374-crypt0/zhold) is not a full **RWA** framework
+  and does not attempt to replace regulatory processes. It is a demonstration
+  of how you can **prove** your eligibility **without disclosure** of private data.
 
 ## 🤔 How I Work
 
@@ -107,6 +132,7 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 
 - GitHub Issues (for technical discussions)
 - X.com (@m374crypt0)
+- [LinkedIn profile](https://www.linkedin.com/in/sebastien-levy-1a6148b2/)
 
 ---
 >[!Warning]

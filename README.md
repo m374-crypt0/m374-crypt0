@@ -1,4 +1,4 @@
-# Senior Blockchain Protocol Engineer EVM / Yul / ZK(noir)
+# Blockchain Protocol Engineer EVM / Yul / ZK(noir)
 
 > [!Note]
 > Read my articles on [dev.to](https://dev.to/sebastien_levy_233585b9a3)

@@ -65,7 +65,7 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 **Problem**: Add privacy guarantees without sacrificing UX
 **Approach**: Noir circuits + verifier integration
 **Result**: End‑to‑end private flow validated on testnet
-**Repo**: [zhold](https://github.com/m374-crypt0/zhold)
+**Repo**: [zk-assets](https://github.com/m374-crypt0/zk-assets)
 
 ### 🧪 Protocol Refactor v1 → v2
 
@@ -74,7 +74,7 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 - **Result**: Cleaner audits, safer upgrades
 - **Repo**: [dexterity](https://github.com/m374-crypt0/dexterity),
   [nifty](https://github.com/m374-crypt0/nifty),
-  [zhold](https://github.com/m374-crypt0/zhold)
+  [zk-assets](https://github.com/m374-crypt0/zk-assets)
 
 ### ❔ Why these repositories exist
 
@@ -83,7 +83,7 @@ I work only on well-defined, contract-backed missions. No unpaid tests.
 - [nifty](https://github.com/m374-crypt0/nifty) is not a "mint". It is a
   demonstration of patterns for safe-upgrade ability and governance-ready protocol.
 
-- [zhold](https://github.com/m374-crypt0/zhold) is not a full **RWA** framework
+- [zk-assets](https://github.com/m374-crypt0/zk-assets) is not a full **RWA** framework
   and does not attempt to replace regulatory processes. It is a demonstration
   of how you can **prove** your eligibility **without disclosure** of private data.
 

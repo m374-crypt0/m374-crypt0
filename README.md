@@ -1,7 +1,9 @@
-# Blockchain Protocol Engineer EVM / Yul / ZK(noir)
+# Building privacy-preserving systems for RWA and DeFi protocols
 
 > [!Note]
 > Read my articles on [dev.to](https://dev.to/sebastien_levy_233585b9a3)
+>
+> My full [resume](https://sebastien-levy-resume.netlify.app)
 ---
 > Security • Performance • Production-grade protocols
 
